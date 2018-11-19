@@ -1,0 +1,6 @@
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\TareaGrafo\TareaGrafo\bin\Debug\TareaGrafo.exe.config
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\TareaGrafo\TareaGrafo\bin\Debug\TareaGrafo.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\TareaGrafo\TareaGrafo\bin\Debug\TareaGrafo.pdb
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\TareaGrafo\TareaGrafo\obj\Debug\TareaGrafo.csprojResolveAssemblyReference.cache
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\TareaGrafo\TareaGrafo\obj\Debug\TareaGrafo.exe
+C:\Users\65676\Documents\Visual Studio 2012\Projects\Figuras\TareaGrafo\TareaGrafo\obj\Debug\TareaGrafo.pdb
